@@ -1,2 +1,2 @@
-Data
-More data
+Data 
+>>>>>>> 0806b49 (Commit done from Repo B)
